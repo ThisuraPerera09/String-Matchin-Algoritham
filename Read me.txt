@@ -1,0 +1,1 @@
+Code is in C language.To run the program, KMP.c file and the modules file, both should be in D drive
